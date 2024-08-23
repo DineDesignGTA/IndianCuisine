@@ -1,0 +1,25 @@
+[
+  {
+    "Section Title": "OFFERS",
+    "Header": "Our Special Offers Dishes",
+    "Description": "Check out our amazing special offers!",
+    "Image 1": "/MenuItems/example-71.png",
+    "Subheading 1": "Malai Kofta",
+    "Sub Description 1": "Our Authentic delicious and creamy Malai Kofta full of flavour.",
+
+    "Image 2": "/MenuItems/example-0.png",
+    "Subheading 2": "Garlic Naan", 
+    "Sub Description 2": "Our naan is soft, fluffy, and infused with rich, buttery garlic flavor for a truly unforgettable taste."
+  },
+  {
+    "Section Title": "POPULAR",
+    "Header": "Popular Dishes",
+    "Description": "Discover our most popular dishes.",
+    "Image 1": "/MenuItems/example-24.png",
+    "Image 2": "/MenuItems/example-78.png",
+    "Subheading 1": "Spicy Tandoori Chicken",
+    "Subheading 2": "Paneer Butter Masala",
+    "Sub Description 1": "A favorite among our customers, this dish features tender chicken marinated in a blend of spices and cooked to perfection in a tandoor.",
+    "Sub Description 2": "A rich and creamy delight, this vegetarian dish combines succulent paneer with a luscious butter masala sauce."
+  }
+]

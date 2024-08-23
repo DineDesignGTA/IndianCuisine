@@ -1,0 +1,36 @@
+{
+  "contactCards": [
+    {
+      "icon": "LocationOn",
+      "title": "Locate us",
+      "content": "398 Steeles Ave. west, Thornhill, Ontario"
+    },
+    {
+      "icon": "AccessTime",
+      "title": "Open Hours",
+      "content": "Mon - Fri: 9:00 am - 9:00 pm"
+    },
+    {
+      "icon": "Email",
+      "title": "Reservation",
+      "content": "dinedesignGTA@gmail.com"
+    }
+  ],
+  "storySection": {
+    "imageSrc": "/uploads/Restaurant.jpg",
+    "imageAlt": "Restaurant",
+    "title": "The Story",
+    "mainParagraph": "When you are looking for the best Indian cuisine in Thornhill, the search usually includes The Indian Cuisine restaurant. You will feel welcomed into our casual, intimate space on Steeles Avenue West by our friendly staff from the second you enter the door until the moment you say goodbye.",
+    "yearInfo": [
+      {
+        "year": "1996",
+        "description": "The Indian Cuisine restaurant was founded, bringing authentic and traditional flavors from India to the heart of Thornhill. The early days were marked by the warm reception from the community and the relentless pursuit of culinary excellence."
+      },
+      {
+        "year": "2005",
+        "description": "After nearly a decade of serving the community, The Indian Cuisine expanded its menu to include a variety of vegetarian and vegan options, catering to the evolving tastes and preferences of our valued customers."
+      }
+    ],
+    "signature": "The Indian Cuisine"
+  }
+}
